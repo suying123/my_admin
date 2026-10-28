@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+*.vue.js
+*.d.ts
+*.config.js
+main.js
+ci.yml
